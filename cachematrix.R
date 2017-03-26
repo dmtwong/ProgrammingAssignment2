@@ -43,8 +43,4 @@ cacheSolve <- function(x, ...) {
   m
 }
 
-#tmp$get()
-#tmp$set(diag(3))
-#tmp$getInv()
-#cacheSolve(tmp)
-#tmp$setInv(diag(4))
+#tmp$get();#tmp$set(diag(3));#tmp$getInv();#cacheSolve(tmp);#tmp$setInv(diag(4))
